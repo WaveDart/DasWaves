@@ -7,6 +7,6 @@
     <title>Prova de aptidáo Profissional</title>
 </head>
 <body>
-    <
+    <button><a href="pg2.html">Click Me</a></button>
 </body>
 </html>
